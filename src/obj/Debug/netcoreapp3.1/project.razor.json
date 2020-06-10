@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/BugTracker.csproj",
+  "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/BugTracker.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,63 +20521,63 @@
   "RootNamespace": "BugTracker",
   "Documents": [
     {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Reports/Create.cshtml",
-      "TargetPath": "Pages\\Reports\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Reports/Delete.cshtml",
-      "TargetPath": "Pages\\Reports\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Reports/Edit.cshtml",
-      "TargetPath": "Pages\\Reports\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Reports/Index.cshtml",
-      "TargetPath": "Pages\\Reports\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/_ViewImports.cshtml",
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Reports/Details.cshtml",
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Reports/Details.cshtml",
       "TargetPath": "Pages\\Reports\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/BugTrackerCSharp/src/BugTracker/Pages/Index.cshtml",
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Reports/Delete.cshtml",
+      "TargetPath": "Pages\\Reports\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Reports/Create.cshtml",
+      "TargetPath": "Pages\\Reports\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Reports/Index.cshtml",
+      "TargetPath": "Pages\\Reports\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Reports/Edit.cshtml",
+      "TargetPath": "Pages\\Reports\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],

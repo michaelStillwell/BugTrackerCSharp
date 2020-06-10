@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d/21RyYXLjDUQkTD/vpti2bmW/fYBo7x1Lhaxud/s4Xb7n4fB7ui51hb8191Y0e9AA4rsbfErgQPiUhl47IKNw==",
+  "dgSpecHash": "Dr3wkYzMa6IyWp8GxhMkrvPIAL4e1s5bukAU9L3GMoMc6ovImb4MjGPeGpM5CHaiuIzRg51GIE2nU8enue+IAA==",
   "success": true,
-  "projectFilePath": "/home/turtles/Documents/Projects_2020/CSharp/BugTracker/src/BugTracker/BugTracker.csproj",
+  "projectFilePath": "/home/turtles/Documents/2020/CSharp/BugTrackerCSharp/src/BugTracker.csproj",
   "expectedPackageFiles": [
     "/home/turtles/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "/home/turtles/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
@@ -165,8 +165,7 @@
     "/home/turtles/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/home/turtles/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/home/turtles/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/home/turtles/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "/home/turtles/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "/home/turtles/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
